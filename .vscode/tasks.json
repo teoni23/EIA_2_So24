@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "typescript",
+			"tsconfig": "../../../../../../../E:/S AC130/S Ba HAW/HFU/uni/S.2/EIA_2_So24/tsconfig_json/tsconfig.json",
+			"problemMatcher": [
+				"$tsc"
+			],
+			"group": "build",
+			"label": "tsc: build - ../../../../../../../E:/S AC130/S Ba HAW/HFU/uni/S.2/EIA_2_So24/tsconfig_json/tsconfig.json"
+		}
+	]
+}
