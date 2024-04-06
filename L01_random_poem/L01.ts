@@ -24,6 +24,4 @@ function ausgabe(): string {
     return gedicht;
 }
 
-let i: number = 2;
-
 console.log(ausgabe());
